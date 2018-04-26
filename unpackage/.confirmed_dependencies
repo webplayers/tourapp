@@ -1,0 +1,24 @@
+{
+	"index.html": {
+		"resources": [
+			"app/images/code.png",
+			"app/images/tfb.jpg",
+			"app/images/upgrade.png",
+			"app/images/key.png",
+			"app/fontawesome/css/font-awesome.css",
+			"app/images/shop.png",
+			"app/images/reback.png",
+			"app/images/scan.png",
+			"app/css/jquery-weui.css",
+			"app/images/account.png",
+			"app/lib/fastclick.js",
+			"app/images/aboutme.png",
+			"app/images/customservice.png",
+			"app/js/home.js",
+			"app/js/jquery-weui.js",
+			"app/lib/jquery-2.1.4.js",
+			"app/css/demos.css",
+			"app/lib/weui.min.css"
+		]
+	}
+}
